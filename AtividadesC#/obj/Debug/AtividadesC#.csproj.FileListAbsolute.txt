@@ -1,0 +1,8 @@
+C:\Users\joaot\source\repos\AtividadesC#\AtividadesC#\bin\Debug\AtividadesC#.exe.config
+C:\Users\joaot\source\repos\AtividadesC#\AtividadesC#\bin\Debug\AtividadesC#.exe
+C:\Users\joaot\source\repos\AtividadesC#\AtividadesC#\bin\Debug\AtividadesC#.pdb
+C:\Users\joaot\source\repos\AtividadesC#\AtividadesC#\obj\Debug\AtividadesC#.csproj.AssemblyReference.cache
+C:\Users\joaot\source\repos\AtividadesC#\AtividadesC#\obj\Debug\AtividadesC#.csproj.SuggestedBindingRedirects.cache
+C:\Users\joaot\source\repos\AtividadesC#\AtividadesC#\obj\Debug\AtividadesC#.csproj.CoreCompileInputs.cache
+C:\Users\joaot\source\repos\AtividadesC#\AtividadesC#\obj\Debug\AtividadesC#.exe
+C:\Users\joaot\source\repos\AtividadesC#\AtividadesC#\obj\Debug\AtividadesC#.pdb
