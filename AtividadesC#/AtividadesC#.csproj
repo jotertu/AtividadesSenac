@@ -57,6 +57,9 @@
     <Compile Include="Atividade11\EncapMedia.cs" />
     <Compile Include="Atividade11\ValidandoAluno.cs" />
     <Compile Include="Atividade12\atividade12.cs" />
+    <Compile Include="Atividade12\Estagiario.cs" />
+    <Compile Include="Atividade12\FuncionarioRegular.cs" />
+    <Compile Include="Atividade12\Gerente.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

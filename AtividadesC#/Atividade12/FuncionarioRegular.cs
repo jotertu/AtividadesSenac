@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace AtividadesC_.Atividade12
 {
-    class FuncionarioRegular
+    class FuncionarioRegular : Funcionario
     {
     }
 }
