@@ -6,3 +6,10 @@ C:\Users\joaot\source\repos\AtividadesC#\AtividadesC#\obj\Debug\AtividadesC#.csp
 C:\Users\joaot\source\repos\AtividadesC#\AtividadesC#\obj\Debug\AtividadesC#.csproj.CoreCompileInputs.cache
 C:\Users\joaot\source\repos\AtividadesC#\AtividadesC#\obj\Debug\AtividadesC#.exe
 C:\Users\joaot\source\repos\AtividadesC#\AtividadesC#\obj\Debug\AtividadesC#.pdb
+C:\Users\joao.vntertuliano\AtividadesSenac\AtividadesC#\obj\Debug\AtividadesC#.csproj.AssemblyReference.cache
+C:\Users\joao.vntertuliano\AtividadesSenac\AtividadesC#\obj\Debug\AtividadesC#.csproj.CoreCompileInputs.cache
+C:\Users\joao.vntertuliano\AtividadesSenac\AtividadesC#\obj\Debug\AtividadesC#.exe
+C:\Users\joao.vntertuliano\AtividadesSenac\AtividadesC#\obj\Debug\AtividadesC#.pdb
+C:\Users\joao.vntertuliano\AtividadesSenac\AtividadesC#\bin\Debug\AtividadesC#.exe.config
+C:\Users\joao.vntertuliano\AtividadesSenac\AtividadesC#\bin\Debug\AtividadesC#.exe
+C:\Users\joao.vntertuliano\AtividadesSenac\AtividadesC#\bin\Debug\AtividadesC#.pdb

@@ -14,7 +14,7 @@ namespace AtividadesC_.Atividade07
      */
     class atividade07
     {
-        public static void Main()
+        public static void main()
         {
             
             Console.WriteLine("Insira o valor máximo");

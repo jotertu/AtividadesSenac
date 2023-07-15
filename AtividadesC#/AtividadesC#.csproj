@@ -50,11 +50,19 @@
     <Compile Include="Atividade05\atividade05.cs" />
     <Compile Include="Atividade06\atividade06.cs" />
     <Compile Include="Atividade07\atividade07.cs" />
+    <Compile Include="Atividade11\AlunoEnem.cs" />
+    <Compile Include="Atividade11\AlunoNota.cs" />
+    <Compile Include="Atividade11\AlunoPadrao.cs" />
+    <Compile Include="Atividade11\AlunoProUni.cs" />
+    <Compile Include="Atividade11\EncapMedia.cs" />
+    <Compile Include="Atividade11\ValidandoAluno.cs" />
+    <Compile Include="Atividade12\atividade12.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

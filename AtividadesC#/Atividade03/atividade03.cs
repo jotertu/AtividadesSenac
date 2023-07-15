@@ -47,5 +47,10 @@ namespace AtividadesC_.Atividade02
 
 
         }
+
+        /**
+         * Comentários
+         * 
+         * */
     }
 }
