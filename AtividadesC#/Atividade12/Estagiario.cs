@@ -8,5 +8,9 @@ namespace AtividadesC_.Atividade12
 {
     class Estagiario : Funcionario
     {
+     public virtual void BonusSalario(double acrescimo)
+        {
+            Console.WriteLine($"Valor do acrescimo: {acrescimo * 0.20}");
+        }    
     }
 }
