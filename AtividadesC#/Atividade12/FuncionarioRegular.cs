@@ -8,7 +8,7 @@ namespace AtividadesC_.Atividade12
 {
     class FuncionarioRegular : Funcionario
     {
-        public virtual void BonusSalario(double acrescimo)
+        public override void BonusSalario(double acrescimo)
         {
             Console.WriteLine($"Valor do acrescimo: {acrescimo * 0.20}");
         }    
